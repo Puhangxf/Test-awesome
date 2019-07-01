@@ -31,7 +31,25 @@
 - GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。
 - GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整。
 
-## 贡献
+
+
+## usage
+
+1、需要下载整个项目时，可以点击右边的 **clone or download** 按钮 
+
+![1561952169536](C:\Users\HP\AppData\Local\Temp\1561952169536.png)
+
+
+
+
+
+2、当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
+
+![1561952483890](C:\Users\HP\AppData\Local\Temp\1561952483890.png)
+
+
+
+## contribution
 
 **欢迎贡献！**
 
@@ -61,7 +79,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 或者也可以发送邮件至i@laiczhang.com，由维护者进行添加。
 
-## 许可
+## license
 
 由贡献者编写部分的许可如下：
 
