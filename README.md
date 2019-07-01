@@ -41,7 +41,7 @@
  </li>
  <li>
   <p>
-需要下载整个项目时，可以点击右边的 **clone or download** 按钮 
+   需要下载整个项目时，可以点击右边的 <b>clone or download</b>按钮 
    
 ![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)
    
