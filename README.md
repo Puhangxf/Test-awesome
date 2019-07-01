@@ -41,7 +41,7 @@
 
 
 
-![QQ截图20190701164815](C:\Users\HP\Documents\GitHub\Test-awsome\image\QQ截图20190701164815.png)
+![QQ截图20190701164815](https://github.com/panda-engineers/Test-awsome/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190701164815.png)
 
 2、当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
 
