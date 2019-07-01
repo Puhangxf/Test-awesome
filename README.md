@@ -35,18 +35,26 @@
 
 ## usage
 
-1、需要下载整个项目时，可以点击右边的 **clone or download** 按钮 
+<ul>
+ <li>
+  <p>
+需要下载整个项目时，可以点击右边的 **clone or download** 按钮 
 
 ![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)
 
 
 
 ![QQ截图20190701164815](https://github.com/panda-engineers/Test-awsome/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190701164815.png)
-
+</p>
+</li>
+<li>
+ <p>
 2、当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
 
 ![1561952483890](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952483890.png)
-
+</p>
+</li>
+<ul>
 
 
 ## contribution
