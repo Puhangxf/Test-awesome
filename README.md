@@ -49,7 +49,7 @@
 </li>
 <li>
  <p>
-2、当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
+当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
 
 ![1561952483890](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952483890.png)
 </p>
