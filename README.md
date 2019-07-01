@@ -17,7 +17,7 @@
 
 我为这一年一年，这么多人孤军奋战的重复劳动感到不平。
 
-我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
+我希望能够将这些隐晦的、不确定的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
 
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
@@ -37,14 +37,16 @@
 
 <ul>
  <li>
+  <p>在线浏览时，推荐使用<a href="https://github.com/ovity/octotree">Octotree</a>等插件</p>
+ </li>
+ <li>
   <p>
 需要下载整个项目时，可以点击右边的 **clone or download** 按钮 
-
+   
 ![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)
-
-
-
+   
 ![QQ截图20190701164815](https://github.com/panda-engineers/Test-awsome/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190701164815.png)
+
 </p>
 </li>
 <li>
