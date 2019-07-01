@@ -1,4 +1,6 @@
 # Test-awsome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-nc-sa.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+
 收录panda**数学与计算机学院**的各学年期末复习文档/考试真题/课堂讲义/作业答案/...
 
 暂不考虑其他二级学院及其他分类的文档。
@@ -43,7 +45,7 @@
   <p>
    需要下载整个项目时，可以点击右边的 <b>clone or download</b>按钮 
    
-![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)
+![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)[
    
 ![QQ截图20190701164815](https://github.com/panda-engineers/Test-awsome/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190701164815.png)
 
