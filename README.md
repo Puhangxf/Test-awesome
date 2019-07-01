@@ -37,7 +37,7 @@
 
 1、需要下载整个项目时，可以点击右边的 **clone or download** 按钮 
 
-![1561952169536](C:\Users\HP\Documents\GitHub\Test-awsome\image\1561952169536.png)
+![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)
 
 
 
@@ -45,7 +45,7 @@
 
 2、当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
 
-![1561952483890](C:\Users\HP\Documents\GitHub\Test-awsome\image\1561952483890.png)
+![1561952483890](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952483890.png)
 
 
 
