@@ -1,5 +1,8 @@
 # Test-awsome
+<!--
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-nc-sa.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+-->
+![](https://img.shields.io/badge/language-markdown-red.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg) ![](https://img.shields.io/badge/built_for-pzhuer-green.svg)
 
 收录panda**数学与计算机学院**的各学年期末复习文档/考试真题/课堂讲义/作业答案/...
 
