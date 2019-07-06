@@ -1,4 +1,4 @@
-# Test-awsome
+# [Test-awsome](https://github.com/panda-engineers/Test-awsome)
 <!--
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-nc-sa.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 -->
