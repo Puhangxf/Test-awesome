@@ -40,28 +40,20 @@
 
 ## Usage
 
-<ul>
- <li>
-  <p>在线浏览时，推荐使用<a href="https://github.com/ovity/octotree">Octotree</a>等插件</p>
- </li>
- <li>
-  <p>
-   需要下载整个项目时，可以点击右边的 <b>clone or download</b>按钮 
-   
-![1561952169536](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)[
-   
-![QQ截图20190701164815](https://github.com/panda-engineers/Test-awsome/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190701164815.png)
 
-</p>
-</li>
-<li>
- <p>
-当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
+- 在线浏览时，推荐使用[Octotree](https://github.com/ovity/octotree)等插件
 
-![1561952483890](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952483890.png)
-</p>
-</li>
-</ul>
+- 需要下载整个项目时，可以点击右边的**clone or download**按钮 
+   
+![1561952169536.png](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952169536.png)
+   
+![QQ截图20190701164815.png](https://github.com/panda-engineers/Test-awsome/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190701164815.png)
+
+
+- 当只需要某个项目当中的一个小文件时 ，以下载“选课方法.docx"为例
+  
+  ![1561952483890.png](https://github.com/panda-engineers/Test-awsome/blob/master/image/1561952483890.png)
+
 
 
 ## Contribution
@@ -141,3 +133,6 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## Contributor
 [@LaicZhang](https://github.com/LaicZhang)
+
+## 微信公众号
+![【微信公众号：laiczhang】](https://camo.githubusercontent.com/dc5abc985700773a2142c95b2233824c2814ed09/687474703a2f2f33392e39362e32342e36332f77702d636f6e74656e742f75706c6f6164732f323031392f30362f6578706f7274313535393832393238353235302e6a7067)
